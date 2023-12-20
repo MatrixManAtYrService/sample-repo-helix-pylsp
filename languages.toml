@@ -1,0 +1,9 @@
+[[language]]
+name = "python"
+
+[language.formatter]
+command = "ruff-format"
+
+[language-server.pylsp]
+args = ["-v", "--log-file", "/Users/matt/pylsp.log"]
+command = "pylsp"
