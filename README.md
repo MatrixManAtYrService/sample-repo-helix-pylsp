@@ -1,4 +1,4 @@
-This repo exists to facilitate communication about project structure.  It has no useful functionality.
+This repo exists to facilitate communication about project structure.  Unless you're chasing this bug, it probably doesn't do anything useful for you.
 
 ### happy path
 
