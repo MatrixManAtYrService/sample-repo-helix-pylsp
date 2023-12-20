@@ -2,7 +2,7 @@ This repo exists to facilitate communication about project structure.  Unless yo
 
 ### happy path
 
-When I am editing files in 'src', imports autocomplete without trouble
+When I am editing files in `src`, imports autocomplete without trouble
 
 ```
 hx  src/sample/say_foo.py
@@ -11,7 +11,7 @@ hx  src/sample/say_foo.py
 
 ### sad path
 
-But when I edit files in 'test', imports do not autocomplete
+But when I edit files in `test`, imports do not autocomplete
   
 ```
 hx test/test_say_foo.py
